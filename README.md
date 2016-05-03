@@ -2,7 +2,7 @@
 
 This is just simple proof of concept demo app for getting Node.js, Hapi and Docker (Beta for Mac) up and running.
 
-To get it up and runnnig, first you need to build the Docker container
+To get started, first you need to build the Docker container. This may take a while.
 
 ```
 docker-compose build
@@ -18,3 +18,5 @@ Go to [http://localhost:3000](http://localhost:3000)
 
 Changes made in you local folder, especially front and scripts will be immediately reflected
 in the docker container.
+
+Commands to be run on startup can be added in the docker-compose.yml.
