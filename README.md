@@ -14,7 +14,7 @@ Once that has been run, you can start the app at any time with
 docker-compose up
 ```
 
-Go to [http://localhost:3000]
+Go to [http://localhost:3000](http://localhost:3000)
 
 Changes made in you local folder, especially front and scripts will be immediately reflected
 in the docker container.
